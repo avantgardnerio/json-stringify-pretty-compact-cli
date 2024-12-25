@@ -1,0 +1,40 @@
+{
+  "year": 2024,
+  "make": "Toyota",
+  "model": "Camry",
+  "details": {
+    "trim": "XSE",
+    "color": "Midnight Black Metallic",
+    "price": 32580,
+    "features": ["Leather Seats", "Navigation System", "Sunroof"],
+    "specifications": {
+      "engine": "2.5L 4-Cylinder",
+      "transmission": "8-Speed Automatic",
+      "drivetrain": "FWD",
+      "fuelEconomy": { "city": 28, "highway": 39, "combined": 32 },
+      "dimensions": {
+        "length": 192.1,
+        "width": 72.4,
+        "height": 56.9,
+        "wheelbase": 111.2
+      }
+    }
+  },
+  "maintenance": [
+    {
+      "type": "Oil Change",
+      "mileage": 5000,
+      "cost": 45
+    },
+    {
+      "type": "Tire Rotation",
+      "mileage": 7500,
+      "cost": 30
+    },
+    {
+      "type": "Air Filter",
+      "mileage": 15000,
+      "cost": 25
+    }
+  ]
+}
