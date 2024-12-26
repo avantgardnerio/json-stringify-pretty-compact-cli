@@ -5,6 +5,9 @@
   "main": "index.js",
   "type": "module",
   "repository": "avantgardnerio/json-stringify-pretty-compact-cli",
+  "files": [
+    "bin/"
+  ],
   "bin": {
     "json-spc": "bin/cli.js"
   },
@@ -25,6 +28,7 @@
   "author": "Brent Gardner",
   "license": "MIT",
   "dependencies": {
-    "json-stringify-pretty-compact": "^4.0.0"
+    "json-stringify-pretty-compact": "^4.0.0",
+    "arg": "^5.0.2"
   }
 }
